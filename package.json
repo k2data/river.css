@@ -1,0 +1,32 @@
+{
+  "name": "river.css",
+  "version": "0.0.1",
+  "description": "simple css framework",
+  "main": "index.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2data/river.css.git"
+  },
+  "keywords": [
+    "css",
+    "sass"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k2data/river.css/issues"
+  },
+  "homepage": "https://github.com/k2data/river.css#readme",
+  "devDependencies": {
+    "autoprefix": "^0.1.4",
+    "autoprefixer": "^6.3.6",
+    "cssnano": "^3.7.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
